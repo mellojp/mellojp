@@ -2,7 +2,7 @@
 
 * 🛠 I'm currently majoring in computer engineering;
 * 🎯 I have some Python and JavaScript experience;
-* 🔥 Working with some frameworks for personal projects;
+* 🔥 Working with some Node frameworks for personal projects;
 * 📚 I’m currently learning C/C++;
 * 🛠️ I also have some hardware projects; 
 * 📲 To reach me, mail to [email](mailto:mellojp.dev@gmail.com)!
