@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, my name is João Pedro!
 
-<!--
-**mellojp/mellojp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🛠 I'm currently majoring in computer engineering;
+* 🎯 I have some Python and JavaScript experience;
+* 🔥 Working with some frameworks for personal projects;
+* 📚 I’m currently learning C/C++;
+* 🛠️ I also have some hardware projects; 
+* 📲 To reach me, mail to [email](mailto:mellojp.dev@gmail.com)!
 
-Here are some ideas to get you started:
+## Some of the stuff i am working on recently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Quine-McCluskey algorithm implementation in college
+  
+    [Repository](https://github.com/beduao/sintese-logica)
+  
+    ![REpo Card](https://github-readme-stats.vercel.app/api/pin/?username=beduao&repo=sintese-logica&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
+
+<h3><strong>Languages and Tools:</strong></h3>
+
+<div style="display: inline_block" id="languages"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
+<hr>  
