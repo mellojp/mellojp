@@ -7,14 +7,6 @@
 * 🛠️ I also have some hardware projects; 
 * 📲 To reach me, mail to [email](mailto:mellojp.dev@gmail.com)!
 
-## Some of the stuff i am working on recently:
-
-* Quine-McCluskey algorithm implementation in college
-  
-    [Repository](https://github.com/beduao/sintese-logica)
-  
-    ![REpo Card](https://github-readme-stats.vercel.app/api/pin/?username=beduao&repo=sintese-logica&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=5E1224&text_color=FFF)
-
 <h3><strong>Languages and Tools:</strong></h3>
 
 <div style="display: inline_block" id="languages"><br>
