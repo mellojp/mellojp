@@ -6,7 +6,7 @@
 -  Atualmente atuando como desenvolvedor fullstack.
 -  Go e minha linguagem principal/favorita, e atualmente estou aprendendo o framework Gin.
 -  Tenho experiência profissional com Javascript/Typescript, e conhecimento acadêmico em Java, Python e C.
--  Gosto de entender a fundo como sitemas funcionam e se comunicam, com interesse em fazer sistemas performáticos.
+-  Gosto de entender a fundo como sitemas funcionam e se comunicam, com interesse em fazer sistemas performáticos e escaláveis.
   
 ---
 
